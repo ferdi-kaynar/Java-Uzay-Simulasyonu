@@ -1,0 +1,8 @@
+UzayGemisi1#Dünya#Mars#01.01.2023#10
+UzayGemisi2#Mars#Jüpiter#01.01.2023#15
+UzayGemisi3#Jüpiter#Satürn#01.01.2023#20
+UzayGemisi4#Satürn#Venüs#01.01.2023#25
+UzayGemisi5#Venüs#Merkür#01.01.2023#30
+UzayGemisi6#Merkür#Neptün#01.01.2023#35
+UzayGemisi7#Neptün#Uranüs#01.01.2023#40
+UzayGemisi8#Uranüs#Dünya#01.01.2023#45

@@ -1,0 +1,10 @@
+Ahmet#30#50#UzayGemisi1
+Mehmet#25#60#UzayGemisi1
+Ayşe#35#45#UzayGemisi2
+Ali#28#55#UzayGemisi3
+Fatma#32#48#UzayGemisi3
+Zeynep#27#52#UzayGemisi4
+Mustafa#40#42#UzayGemisi4
+Emine#33#47#UzayGemisi5
+Hasan#29#53#UzayGemisi5
+Sultan#31#49#UzayGemisi6

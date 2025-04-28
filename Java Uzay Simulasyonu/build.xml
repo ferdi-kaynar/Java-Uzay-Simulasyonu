@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="UzaySimulasyonu" default="create-jar" basedir=".">
+    <property name="src" location="src"/>
+    <property name="bin" location="bin"/>
+    <property name="dist" location="dist"/>
+    
+    <target name="init">
+        <mkdir dir="${bin}"/>
+        <mkdir dir="${dist}"/>
+    </target>
+    
+    <target name="compile" depends="init">
+        <javac srcdir="${src}" destdir="${bin}" includeantruntime="false"/>
+    </target>
+    
+    <target name="create-jar" depends="compile">
+        <jar destfile="${dist}/Simulasyon.jar" basedir="${bin}">
+            <manifest>
+                <attribute name="Main-Class" value="Simulasyon.simulasyon"/>
+            </manifest>
+            <fileset dir="${src}/Simulasyon" includes="*.txt"/>
+        </jar>
+    </target>
+    
+    <target name="clean">
+        <delete dir="${bin}"/>
+        <delete dir="${dist}"/>
+    </target>
+</project> 
